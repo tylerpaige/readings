@@ -1,4 +1,4 @@
-![](pazani.jpeg)
+![](images/panzani.jpeg)
 
 # Rhetoric of the Image
 ## ROLAND BARTHES
