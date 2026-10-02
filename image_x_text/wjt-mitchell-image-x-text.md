@@ -82,16 +82,16 @@ Nelson, Robert, and Richard Schiff eds. 1996. *Critical Terms for Art History*. 
 
 ## Footnotes
 
-[^1] Mitchell 1994, 89. See also chapter three, “Beyond Comparison: Picture, Text, and Method,” and the concluding chapter, “Some Pictures of Representation.” Other key writings on the concept of the imagetext include Mitchell 1986 and “Word and Image,” in Nelson and Schiff eds. 1996.
+[^1]: Mitchell 1994, 89. See also chapter three, “Beyond Comparison: Picture, Text, and Method,” and the concluding chapter, “Some Pictures of Representation.” Other key writings on the concept of the imagetext include Mitchell 1986 and “Word and Image,” in Nelson and Schiff eds. 1996.
 
-[^2] See my “Utopian Gestures: The Poetics of Sign Language,” preface to H. Dirksen Bauman, Jennifer L. Nelson, and Heidi M. Rose eds. 2006, xv–xxiii.
+[^2]: See my “Utopian Gestures: The Poetics of Sign Language,” preface to H. Dirksen Bauman, Jennifer L. Nelson, and Heidi M. Rose eds. 2006, xv–xxiii.
 
-[^3] See “Some Pictures of Representation,” the conclusion to Mitchell 1994, 417–425.
+[^3]: See “Some Pictures of Representation,” the conclusion to Mitchell 1994, 417–425.
 
-[^4] Foucault 1983, 26. Foucault also refers to the blank space between the pipe and its caption as a “crevasse—an uncertain foggy region” (ibid, 28).
+[^4]: Foucault 1983, 26. Foucault also refers to the blank space between the pipe and its caption as a “crevasse—an uncertain foggy region” (ibid, 28).
 
-[^5] For an account of the way Foucault’s playful reflections on Magritte’s imagetext composition serve as a basis for his whole archaeological method, see Deleuze 1988, 80.
+[^5]: For an account of the way Foucault’s playful reflections on Magritte’s imagetext composition serve as a basis for his whole archaeological method, see Deleuze 1988, 80.
 
-[^6] A version of the Aristotelian and Barthesian triad was institutionalized some years ago in the University of Chicago’s common core as a year-long course sequence in “Media Aesthetics” entitled “Image/Sound/Text.”
+[^6]: A version of the Aristotelian and Barthesian triad was institutionalized some years ago in the University of Chicago’s common core as a year-long course sequence in “Media Aesthetics” entitled “Image/Sound/Text.”
 
-[^7] Since Saussure’s text was a compilation of lecture notes by himself and his students, it is not possible to be certain that this diagram was actually drawn by the great linguist. Nevertheless, it has become a canonical picture of his understanding of the linguistic sign.
+[^7]: Since Saussure’s text was a compilation of lecture notes by himself and his students, it is not possible to be certain that this diagram was actually drawn by the great linguist. Nevertheless, it has become a canonical picture of his understanding of the linguistic sign.
